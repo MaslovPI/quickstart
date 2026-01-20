@@ -13,7 +13,3 @@ Visit the [Hugo](https://gohugo.io) website!
 ```sql
 select * from table
 ```
-
-```
-
-```
