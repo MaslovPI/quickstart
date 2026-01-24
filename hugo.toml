@@ -1,7 +1,7 @@
 baseURL = 'https://MaslovPI.githiub.io/quickstart'
 languageCode = 'en-us'
 title = 'This is a test hugo quickstart'
-theme = 'ananke'
+theme = 'ficurinia'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
